@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "prerender": "^3.17.0"
+  }
+}
